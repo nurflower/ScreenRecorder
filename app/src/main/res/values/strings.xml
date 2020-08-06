@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScreenRecorder</string>
+    <string name="start_record">Начать запись</string>
+    <string name="stop_recording">Остановить запись</string>
+</resources>
